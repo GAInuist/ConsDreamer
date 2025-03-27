@@ -25,6 +25,12 @@ Extensive experiments validate that ConsDreamer effectively mitigates the multi-
   <img src="resources/pipeline2.png" width="35%" /> 
 </div>
 
+## Running Environment
+The implementation of **ConsDreamer** is mainly based on Python 3.9.16,[CUDA](https://developer.nvidia.com/cuda-toolkit-archive) 11.7 and [PyTorch](https://pytorch.org/) 2.0.1. To install all required dependencies:
+```
+$ pip install -r requirements.txt
+```
+
 
 
 
