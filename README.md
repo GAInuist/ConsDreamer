@@ -9,6 +9,6 @@ ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generatio
 
 
 <div align="center">
-  <img src="resources/results.png" />
+  <img src="resources/results.png"width="70%" />
 </div>
 
