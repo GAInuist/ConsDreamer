@@ -7,7 +7,7 @@
 </div>
 
 ## Abstract
-We propose a novel approach, *ConsDreamer*, which generates 3D content with multi-view consistency while effectively mitigating the multi-face Janus problem.
+Here, we propose *ConsDreamer*, an innovative framework designed to address the Janus problem in text-to-3D generation by introducing: 1) a View Disentanglement Module and 2) a novel similarity-based partial order loss.
 <details>
 <summary>Click for the full abstract <b></b></summary>
 Recent advances in zero-shot text-to-3D generation have revolutionized 3D content creation by enabling direct synthesis from textual descriptions. While state-of-the-art (SOTA) methods leverage 3D Gaussian Splatting with score distillation to enhance multi-view rendering through pre-trained T2I models, they suffer from inherent view biases in T2I priors that lead to inconsistent 3D generation, particularly manifesting as the multi-face Janus problem, where objects exhibit conflicting features across views.
