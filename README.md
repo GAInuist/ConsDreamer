@@ -63,12 +63,17 @@ python ConsDreamer_train.py --opt <path to config file>
 ```
 or you can try:
 ```
-bash 
+bash Run.sh
 ```
 
-## References
-Parts of our codes based on:
-* [EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer.git)    
+## Acknowledgement
+Parts of our codes based on many amazing research works and open-source projects:
+* [EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer.git)
+* [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting.git)
+* [graphdeco-inria/diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization.git)
+* [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion.git)
+* [openai/point-e](https://github.com/openai/point-e.git)
+* [openai/CLIP](https://github.com/openai/CLIP.git)
 
 
 
