@@ -25,11 +25,25 @@ Extensive experiments validate that ConsDreamer effectively mitigates the multi-
   <img src="resources/pipeline2.png" width="35%" /> 
 </div>
 
-## Running Environment
+## Setup
 The implementation of **ConsDreamer** is mainly based on Python 3.9.16, [CUDA](https://developer.nvidia.com/cuda-toolkit-archive) 11.7 and [PyTorch](https://pytorch.org/) 2.0.1. To install all required dependencies:
+
+### Cloning the Repository
+The repository contains submodules; thus please check it out with
 ```
+$
+```
+
+Create conda environment:
+$conda create -n ConsDreamer python=3.9.16 cudatoolkit=11.8
+$conda activate ConsDreamer
+
 $ pip install -r requirements.txt
-```
+$ pip install submodules/diff-gaussian-rasterization/
+$ pip install submodules/simple-knn/
+$ cd CLIP_vit
+$ pip install -e .
+
 
 
 
