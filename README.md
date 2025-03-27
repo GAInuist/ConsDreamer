@@ -57,6 +57,15 @@ conda activate ConsDreamer
  pip install -e .
 ```
 
+## Running
+```
+python ConsDreamer_train.py --opt <path to config file>
+```
+or you can try:
+```
+bash 
+```
+
 ## References
 Parts of our codes based on:
 * [EnVision-Research/LucidDreamer](https://github.com/EnVision-Research/LucidDreamer.git)    
