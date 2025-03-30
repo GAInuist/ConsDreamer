@@ -1,6 +1,11 @@
 # ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation
 
 
+<div align=center>
+<img src="resources/batman.gif" width="13.57%"/><img src="resources/mario.gif" width="13.57%"/><img src="resources/goku.gif" width="13.57%"/><img src="resources/brownie.gif" width="13.57%"/><img src="resources/gundam.gif" width="13.57%"/><img src="resources/schnauzer.gif" width="13.57%"/><img src="resources/corgii.gif" width="13.57%"/>
+
+</div>
+
 
 <div align="center">
   <img src="resources/results.png"width="90%" />
