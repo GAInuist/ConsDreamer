@@ -80,7 +80,7 @@ Parts of our codes based on many amazing research works and open-source projects
 * [openai/point-e](https://github.com/openai/point-e.git)
 * [openai/CLIP](https://github.com/openai/CLIP.git)
 
-
+Thanks for their excellent work and great contribution to 3D generation area.
 
 
 
