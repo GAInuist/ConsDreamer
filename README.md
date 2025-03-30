@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="resources/results.png"width="80%" />
+  <img src="resources/results.png"width="90%" />
 </div>
 
 ## Abstract
